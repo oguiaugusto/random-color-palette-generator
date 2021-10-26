@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(63, 63, 63);
+}
+
+.header {
+  background-color: rgb(54, 54, 54);
+  color: #eee;
+}
+
+main {
+  background-color: rgb(54, 54, 54);
+  width: max-content;
+  margin: 1rem auto;
+  padding: 2rem 3rem;
+  border-radius: 1.2rem;
+}
+
+.colors {
+  display: flex;
+}
+
+.color-square {
+  width: 8rem;
+  height: 8rem;
+}
+
+.color-code {
+  color: #eee;
+  text-align: center;
+  font-size: small;
+}
+
+.button-container {
+  background-color: rgb(54, 54, 54);
+  width: max-content;
+}
